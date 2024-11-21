@@ -2,3 +2,10 @@
     right: 70px;
     bottom: 3px;
 }
+
+@media (max-width: 768px) {
+    .CardImage{
+        right: 36px;
+        bottom: 3px;
+    }
+}

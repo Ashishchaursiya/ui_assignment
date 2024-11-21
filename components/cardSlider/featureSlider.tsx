@@ -32,7 +32,7 @@ export default function FeatureSlider() {
             <div className="featureBox">
               <div className="flex items-center">
                 <div className="imgContainer flex items-center justify-center mr-3">
-                  <img src={slide.image} width={32} height={32} alt={slide.text} />
+                  <Image src={slide.image} width={32} height={32} alt={slide.text} />
                 </div>
                 <p className="font-poppins text-[16px] font-black leading-[30px] text-white">{slide.text}</p>
               </div>
