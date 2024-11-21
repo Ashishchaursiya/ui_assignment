@@ -1,0 +1,18 @@
+.featureSwiper .swiper-slide {
+   background-color: #32c3cda9;
+    width: 332px;
+    height: 88px;
+    border-radius: 12px;
+    padding: 16px;
+  }
+  .featureBox .imgContainer {
+    width:56px;
+    height: 56px;
+    padding: 12px;
+  background-color: #89d2e7;
+    border-radius: 8px;
+    opacity: 0px;
+  }  
+  
+  
+  
